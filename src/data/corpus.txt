@@ -1,0 +1,768 @@
+Bachelor of Computer Science Programs
+Computer Science - Both general and honours programs are offered, leading to the degree of Bachelor of
+Computer Science (B.C.S.). Each permits the student to augment a specialized study of computers with
+an extensive study of one of a number of related fields, or with a broad spectrum of other courses. A Cooperative Education program is offered in Honours Computer Science. Also offered are B.Sc. programs
+leading to degrees in Computer Information Systems Specialization, or with Software Engineering
+Specialization.
+
+COMPUTER SCIENCE
+PROGRAM AND CO-OPERATIVE EDUCATION
+REGULATIONS
+ENGLISH PROFICIENCY
+It is highly recommended that students take English ENGL-1001 (Composition) as students in Computer
+Science should develop good oral and written communications skills, besides technical proficiency in the
+basic science.
+SELECTION OF COURSES
+In selecting courses to meet the requirements of the programs outlined below, the following general
+regulations also must be observed:
+1) A student registering in a course without having successfully completed the prerequisite course(s) will
+be required to drop that course unless the consent of the Director of Computer Science (or her/his
+designate) is obtained.
+2) If two or more courses cover essentially the same material, only one may be taken for credit.
+3) The prior approval of the Director of Computer Science (or her/his designate) must be obtained in
+order to substitute any courses for required ones.
+4) Statistics courses other than those specifically listed as being required for the degree, or ones for
+which the required statistics courses are themselves prerequisites, may not be taken for credit.
+5) In general, Computer Science courses offered in other areas may not be taken for credit. COMP-1047,
+COMP-2067, COMP-2057, COMP-2077, COMP-2707, and COMP-3057 may not be used to satisfy the
+major requirements of any degree program in Computer Science, or in joint programs with Computer
+Science, unless permission is obtained from the Director of Computer Science (or her/his designate).
+
+CO-OPERATIVE EDUCATION
+The Co-operative Education Program is available for the following degrees:
+Bachelor of Computer Science (Honours)
+Bachelor of Computer Science (Honours Applied Computing)
+Bachelor of Science (Honours Computer Information Systems)
+Bachelor of Science (Honours Computer Science with Software Engineering Specialization)
+Introduction
+The Co-operative Education Program offers students the opportunity to combine their classroom
+experiences with related work experiences. Students who apply and are accepted into the Co-operative
+Education Program must successfully complete at least three paid work experiences interspersed
+throughout the four-year Honours program. The experience gained while participating in these
+structured and supervised work placements is viewed as an integral component of the student's
+educational program.
+
+All Co-op positions must be full-time, paid, related to the degree program and approved by the
+University. The process of securing a Co-op position is competitive. Co-op students will apply for work
+opportunities as advertised by the Centre for Career Education using an Internet-based software
+program and employers will make interview and hiring decisions. Students are also encouraged to seek
+Co-op employment outside of the advertised postings by completing a guided job search process
+facilitated by the Centre for Career Education.
+Academic Regulations
+Computer Science Co-op students must maintain full-time academic status and satisfy the following:
+(a) Must maintain a minimum average of 60%, and
+(b) Must maintain a minimum major average of 65%,
+(c) Must not have more than one grade below 50% on their transcript, and;
+(d) Must maintain a minimum major average of 65% during the one semester probation period.
+General Information
+Withdrawal from the Co-op program will be granted on an exception basis only as it must be determined
+that the student has no outstanding commitments to employers. Students who wish to withdraw must
+meet with a Co-op Coordinator and complete a withdrawal form. However, the only time a student may
+withdraw from an undergraduate Co-op program without further Co-op fee payment implications is by
+the 1st Friday of classes after their first Co-op work term. Students who withdraw from Co-operative
+Education at any other time will be liable for paying the Co-op fee for the term in which they are
+dropping and one additional term. This will help offset the costs of developing another student for
+placement.
+In the interest of building solid partnerships with employers, students who have accepted a Co-op
+employment offer (either by ranking a position in round 1 of the job competition or by accepting a
+position either verbally or in writing in later rounds) must honour that commitment. Therefore, once
+students have accepted an offer of employment for a work term, they will be considered registered in
+the appropriate work term course and must remain in the Co-op program until they have completed
+their work term requirements. Failure to honour these commitments and/or to complete all work term
+requirements will lead to being required to withdraw from the Co-op program and will result in a failing
+grade on his/her transcript for that work term.
+Sequence of Work and Study Terms
+Year of Study Fall Semester Winter Semester Summer Semester
+Year 1 Study Study Off
+Year 2 Study Study Work
+Year 3 Study Work Study
+Year 4 Work Study Work
+Year 5 Study
+
+Bachelor of Computer Science (General)
+Degree Requirements
+Total courses: thirty.
+(a) COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340 (or COMP-3670), plus two additional
+Computer Science courses (excluding COMP-XXX7).
+(b) MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and STAT-2910;
+(c) one course from Arts/Languages, and one from Social Sciences;
+(d) eleven other courses from any area of study, including Computer Science.
+The major average will be calculated on the basis of the grades obtained in COMP-1000, COMP-1400,
+COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660, COMP-3150, COMP-3220,
+COMP-3300, and either COMP-3340 or COMP-3670 or both.
+Recommended Course Sequence
+First Year: ten courses, including COMP-1000, COMP-1400, COMP-1410, MATH-1250 or MATH-1260,
+MATH-1720 (or MATH-1760).
+Second Year: ten courses, including COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660,
+and STAT-2910.
+Third Year: ten courses, including COMP-3150, COMP-3220, COMP-3300, and COMP-3340 (or COMP3670).
+Note: Students who plan to complete an Honours Computer Science degree at a later date should restrict
+the number of Computer Science courses they take as options, in order to transfer seamlessly into a
+Computer Science Honours program. These students should consult a program advisor.
+
+Bachelor of Computer Science (Honours)
+This program is available with or without Co-op). See Program and Co-operative Education Regulations
+above.
+Degree Requirements
+Total courses: forty.
+(a) COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2140, COMP-2310, COMP-2540, COMP2560, COMP-2650, COMP-2660, COMP-3110, COMP-3150, COMP-3220, COMP-3300, COMP-3540,
+COMP-3670, COMP-4400, COMP-4540, COMP-4960 or COMP-4990 (both 6.0 credit hour courses), plus
+one additional Computer Science course at the COMP-3XX0 or COMP-4XX0 level.
+(b) MATH-1020, MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), MATH-1730, MATH-3940 (or
+MATH-3800) and STAT-2910 (or STAT-2920);
+(c) three courses from Arts, Languages or Social Sciences, with at least one from Arts/Languages and one
+from Social Sciences;
+(d) three courses at the 2XXX-4XXX level from Mathematics/Statistics or Computer Science (excluding
+COMP-XXX7);*
+(e) seven other courses from any area of study, including Computer Science.
+It is recommended that students pursuing a Multi-media specialization should pick 6 courses (in
+consultation with an academic advisor) from Visual Arts and Communication, Media and Film.
+The major average will be calculated on the basis of grades obtained in COMP-1000, COMP-1400, COMP1410, COMP-2120, COMP-2140, COMP-2310, COMP-2540, COMP-2560, COMP-2650, COMP-2660,
+COMP-3110, COMP-3150, COMP-3220, COMP-3300, COMP-3540, COMP-3670, COMP-4400, COMP-4540,
+and either COMP-4960 or COMP-4990.
+*Specializations
+Students may specialize in one of the following areas. A special annotation will be made on the transcript
+for a specialization in one of the following areas, if the specified courses are completed:
+i) Artificial Intelligence specialization: COMP-3710; (at least two of COMP-4730, or COMP-4740, or
+COMP-4770 (requires COMP-3770)); and COMP-4990 project course (or COMP-4960 Research Project))
+on an approved topic in Artificial Intelligence.
+ii) Multi-media specialization: COMP-3500; COMP-4500; at least one of COMP-3340 and COMP-3520; and
+COMP-4990 project course (or COMP-4960 Research Project) on an approved topic in Multi-media.
+iii) Networks and Security specialization: COMP-4670; at least two of COMP-3340, COMP-3680 and
+COMP-4680; and COMP-4990 project course (or COMP-4960 Research Project), on an approved topic in
+Networks and Security.
+iv) Game Development specialization: One of (COMP-3500 or COMP-3520) and COMP-3770, COMP-4770
+and COMP-4990 project course (or COMP-4960 Research Project) on an approved topic in Game
+Development.
+Recommended Course Sequence
+First Year: ten courses, including COMP-1000, COMP-1400, COMP-1410, MATH-1020, MATH-1250 (or
+MATH-1260) , MATH-1720 (or MATH-1760), and MATH-1730.
+Second Year: ten courses, including COMP-2120, COMP-2140, COMP-2310, COMP-2540, COMP-2560,
+COMP-2650, COMP-2660, and STAT-2910 (or STAT-2920).
+Third Year: ten courses, including COMP-3110, COMP-3150, COMP-3220, COMP-3300, COMP-3540,
+COMP-3670, and MATH-3940 (or MATH-3800).
+Fourth Year: ten courses, including COMP-4400, COMP-4540, COMP-4990 (a 6.0 credit hour course)
+
+Bachelor of Computer Science (Honours Applied Computing)
+This program is available with or without Co-op. See Program and Co-operative Education Regulations
+above.
+Degree Requirements
+Total courses: forty.
+(a) COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340, COMP-3400, COMP-3670, COMP-4990 (6
+credit course), COMP-4150, COMP-4200, COMP-4220, COMP-4250, and two other Computer Science
+courses (excluding COMP- XXX7).
+(b) MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and STAT-2910
+(c) One course from Arts/Languages, and one from Social Sciences
+(d) Thirteen other courses from any area of study, including Computer Science
+The major average will be calculated on the basis of grades obtained in COMP-1000, COMP-1400, COMP1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660, COMP-3150, COMP-3220,
+COMP-3400, COMP-3300, COMP-3340, COMP-3670, COMP-4150, COMP-4200, COMP-4220, COMP-4250,
+and COMP-4990.
+Recommended Course Sequence
+First Year: ten courses, including COMP-1000, COMP-1400, COMP-1410, MATH-1250 (or MATH-1260),
+MATH-1720 (or MATH-1760).
+Second Year: ten courses, including COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660,
+and STAT-2910.
+Third Year: ten courses, including COMP-3150, COMP-3220, COMP-3300, COMP-3340, COMP-3400,
+COMP-3670.
+Fourth Year: ten courses, including COMP-4150, COMP-4200, COMP-4220, COMP-4250, COMP-4990 (a
+6.0 credit hour course).
+
+Bachelor of Science (Honours Computer Information Systems)
+This program is available with or without Co-op. See Program and Co-operative Education Regulations
+above.
+Degree Requirements
+Total courses: forty.
+(a) Computer Science: COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560,
+COMP-2650, COMP-2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340, COMP-3400, COMP-4990
+(a 6.0 credit hour course), plus two additional Computer Science course at the COMP-3XX0 or COMP4XX0 level.
+(b) Business: ACCT-1510, ACCT-2550, FINA-2700, MKTG-1310, and STEN-1000, plus four additional
+Business courses, but excluding MSCI-2020, MSCI-2130, MSCI-2200 and MSCI-3200.
+(c) MATH-1250 (or MATH-1260), MATH-1720 or MATH-1760), and STAT-2910;
+(d) three courses from Arts, Languages or Social Sciences, with at least one from Arts/Languages and one
+from Social Sciences;
+(e) six additional courses from any area of study excluding Business;
+(f) ECON-1100, ECON-1110.
+The major average will be calculated on the basis of grades obtained in COMP-1000, COMP-1400, COMP1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660, COMP-3150, COMP-3220,
+COMP-3300, COMP-3340, COMP-3400, COMP-4990, ACCT-1510, ACCT-2550, FINA-2700, MKTG-1310,
+and STEN-1000.
+Recommended Course Sequence
+First Year: ten courses, including ECON-1100, ECON-1110, COMP-1000, COMP-1400, COMP-1410, MATH1250 (or MATH-1260), MATH-1720 (or MATH-1760), ACCT-1510, and STEN-1000.
+Second Year: ten courses, including COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660,
+STAT-2910, and MKTG-1310, ACCT-2550 and FINA-2700;
+Third Year: ten courses, including COMP-3150, COMP-3220, COMP-3300, COMP-3340, and COMP-3400.
+Fourth Year: ten courses, including COMP-4990 (a 6.0 credit hour course) and two Computer Science
+courses at the 3XXX or the 4XXX level.
+
+Bachelor of Science (Honours Computer Science with Software
+Engineering Specialization)
+This program is available with or without Co-op. See Program and Co-operative Education Regulations
+above.
+Degree Requirements
+Total courses: forty.
+(a) COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2140, COMP-2310, COMP-2540, COMP2560, COMP-2650, COMP-2660, COMP-2800, COMP-3110, COMP-3150, COMP-3220, COMP-3300,
+COMP-3540, COMP-3670, COMP-4110, COMP-4400, COMP-4540, COMP-4800, COMP-4960 or COMP4990 (both 6.0 credit hour courses), plus one additional Computer Science course (excluding COMPXXX7).
+(b) MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), MATH-1730, MATH-1020, and STAT-2920
+(or STAT-2910).
+(c) four courses, one from each category: (i) Dynamics and Psychology: PSYC-1150, PSYC-2180, PHIL2280, PHIL-1290, (ii) Communication skills: CMAF-2210, DRAM-2100, ENGL-1001, (iii) Professionalism:
+PHIL-2210, PHIL-2240, GART-2090, ENGL-1005, and (iv) Business and Management: MKTG-1310, MGMT2400, STEN-1000.
+(d) two courses from Arts, Languages or Social Sciences, including one from Arts/Languages and one from
+Social Sciences;
+(e) four additional courses from any area of study, including Computer Science.
+(f) one course at the 2XXX-4XXX level from Mathematics/Statistics or Computer Science (excluding
+COMP-XXX7).
+The major average will be calculated on the basis of grades obtained in COMP-1000, COMP-1400, COMP1410, COMP-2120, COMP-2140, COMP-2310, COMP-2540, COMP-2560, COMP-2650, COMP-2660,
+COMP-2800, COMP-3110, COMP-3150, COMP-3220, COMP-3300, COMP-3540, COMP-3670, COMP-4110,
+COMP-4400, COMP-4540, COMP-4800, and either COMP-4960 or COMP-4990.
+Recommended Course Sequence
+First Year: ten courses, including COMP-1000, COMP-1400, COMP-1410, MATH-1250 (or MATH-1260),
+MATH-1720 (or MATH-1760), MATH-1730 and MATH-1020.
+Second Year: ten courses, including COMP-2120, COMP-2140, COMP-2310, COMP-2540, COMP-2560,
+COMP-2650, COMP-2660, COMP-2800, and STAT-2920 (or STAT-2910).
+Third Year: ten courses, including COMP-3110, COMP-3150, COMP-3220, COMP-3300, COMP-3540,
+COMP-3670.
+Fourth Year: ten courses, including COMP-4110, COMP-4400, COMP-4540, COMP-4800, and COMP-4990
+(a 6.0 credit hour course).
+To remove any suggestion that the word "engineering," in the context of courses or programs in
+Computer Science implies the meaning of "engineering" as used in the context of courses or programs in
+Professional Engineering, it is hereby acknowledged that Software Engineering is a collection of
+principles, models, methods, and techniques for the development, maintenance, evolution, and reuse of 
+software that meets fundamental performance and quality requirements in an economic and
+competitive manner.
+
+Honours Business Administration and Computer Science
+(with/without Co-op; with/without Thesis; with/without
+Specialization)
+This is a joint offering between the School of Computer Science and the Odette School of Business. See
+Odette School of Business for details.
+Honours Mathematics and Computer Science
+This is a joint offering between the School of Computer Science and the Department of Mathematics and
+Statistics. See Department of Mathematics and Statistics for details.
+Other Combined Honours Computer Science Programs
+Degree Requirements
+Total courses: forty.
+(a) Computer Science: COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560,
+COMP-2650, COMP-2660, COMP-3150, COMP-3220, COMP-3300, COMP-3400, and COMP-4990, plus
+three additional Computer Science courses at the 3XXX level or above (excluding COMP-XXX7).
+(b) Course requirements - Other Subject: courses used to calculate the major average in the other subject
+area, as prescribed by that area of study.
+(c) MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and STAT-2910 (or STAT-2920);
+(d) any additional courses, excluding courses used to calculate the major average as determined by the
+second area of study;
+(e) additional courses, if necessary, from any area of study to a total of forty courses.
+The major average will be calculated on the basis of grades obtained in COMP-1000, COMP-1400, COMP1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660, COMP-3150, COMP-3220,
+COMP-3300, COMP-3400, and COMP-4990 and those major courses in the other area of specialization.
+Students interested in pursuing a graduate degree in Computer Science are strongly encouraged to take
+MATH-1020, MATH-1730, COMP-2140, COMP-2310, COMP-3540 and COMP-4540 during their
+undergraduate studies to increase their chance of acceptance into a graduate program in Computer
+Science.
+
+Bachelor of Computer Science (General) for University Graduates
+Admission Requirements
+(i) A three-year General, four-year Major or four-year Honours degree from an accredited University (in a
+discipline other than Computer Science).
+(ii) Ontario Grade 12 “U” Advanced Functions or equivalent. Grade 12 “U” Calculus & Vectors is strongly
+recommended.
+Degree Requirements
+Total Courses: 16
+University graduates with a three-year General, four-year Major or four-year Honours degree (from a
+discipline other than Computer Science) may apply to the BCS (General) degree for University Graduates.
+12-month Full time Degree Program (with Summer Entry)*
+(a) COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340 or COMP-3670, plus one additional Computer
+Science course (excluding COMP-XXX7).
+(b) MATH-1250 (or MATH-1260 or MATH-1270), MATH-1720 (or MATH-1760), and STAT-2910.
+The major average will be calculated on the basis of grades obtained in COMP-1000, COMP-1400, COMP1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650 (or ELEC-2170), COMP-2660 (or ELEC-3270),
+COMP-3150, COMP-3220, COMP-3300, COMP-3340 and/or COMP-3670.
+* Completion in 12 months is possible ONLY for those starting in Intersession/Summer semester. Those
+starting in Fall or Winter semesters, it may take longer to finish and such students may not be able to
+have a full course load in every semester. Also, students who get transfer credits should not expect to
+have a full course load every semester.
+Recommended Program Sequence (for 12 month completion with summer entry)
+This is a 16-course program. The normal course load is 5 courses per semester but to complete the
+program in 12 months, an extra course has to be taken in the last semester as per sequence given below:
+Intersession/Summer
+Intersession (6 week offering starting May): COMP-1400
+Summer (6 week offering starting July): COMP-1410
+12-week term (starting May): COMP-1000, COMP-2650 and STAT-2910
+Fall
+COMP-2120, COMP-2540, COMP-2560, COMP-2660, and MATH-1250 (or MATH-1260) or MATH-1720 (or
+MATH-1760).
+Winter
+COMP-3150, COMP-3220, COMP-3300, COMP-3340 or COMP-3670, Computer Science elective, and the
+remaining Math course.
+
+COMPUTER SCIENCE COURSES
+Not all courses listed below will necessarily be offered every academic year.
+All courses listed below are three lecture hours per week or equivalent, unless otherwise stated. In
+addition, laboratory/tutorial time may be scheduled as required.
+Note: Most Computer Science courses require substantial time out of class in writing, correcting, and
+testing computer programs. Students should be prepared to devote a minimum of three to five hours a
+week per course to assignment work alone.
+COMP-1000. Key Concepts in Computer Science
+The objectives of this course are to excite students' interest in computer science and to give students a
+precise understanding of a number of difficult concepts that are fundamental to modern computer
+science. Topics may include: induction and recursion; algebraic characterization; syntax; semantics;
+formal logic; soundness, completeness, and decidability; specification, algorithm, and determinism;
+complexity. (Restricted to students registered in programs offered wholly or jointly by Computer Science
+or by Mathematics and Statistics, or with approval of Computer Science.) (3 lecture hours and 1.5
+laboratory hours a week).
+
+COMP-1047. Computer Concepts for End-Users
+Introduction to the concepts of operation of a computer system, including hardware and software.
+Development of conceptual understanding of word processors, databases, spreadsheets, etc., and
+practical experience with their use. Networking concepts and data communication concepts will be
+introduced. The Internet will be introduced with students having access to internet resources.
+Management information systems including the systems development lifecycle will be discussed.
+Fundamental concepts of algorithm development and programming will be introduced. Hands-on
+experience with microcomputers as well as a distributed-computing environment will be involved. In
+addition to lecture time, laboratory/tutorial time may be scheduled as required. (May not be used to
+fulfill the major requirements of any major or joint major in Computer Science, except for the Bachelor of
+Information Technology (BIT) program.) (3 lecture hours).
+
+COMP-1400. Introduction to Algorithms and Programming I
+This course is the first of a two-course sequence designed to introduce students to algorithm design and
+programming in a high-level language such as C. The main objectives of the course are to develop the
+ability to identify, understand and design solutions to a wide variety of problems. Topics include:
+computer system overview, hardware and software, problem solving steps, concepts of variables,
+constants, data types, algorithmic structure, sequential logic, decisions, loops, modular programming, 
+one-dimensional arrays, text files. If possible, problems like searching/sorting will be addressed. (3
+lecture hours and 1.5 laboratory hours a week).
+
+COMP-1410. Introduction to Algorithms and Programming II
+This course is the continuation of COMP-1400 that introduces students to more advanced algorithm
+design and programming in a high level language such as C. The main objectives of the course are to
+develop the ability to identify, understand, and design solutions to a wide variety of problems. Topics
+covered include: multi-dimensional arrays, pointers, strings, advanced modular programming, records,
+binary files, recursion, stacks, linked lists and introduction to algorithm analysis. (Prerequisite: COMP1000 (or MATH-1720) and COMP-1400.) (3 lecture and 1.5 laboratory hours a week).
+
+COMP-2057. Introduction to the Internet
+Students will be introduced to the Internet as a global information infrastructure, including fundamental
+concepts in protocols and services, packaging of data, and data transmission. Common tools and
+multimedia such as HTML, CSS, and CMS, used for the development of websites will also be introduced.
+Web page design, quality, accessibility and security issues will be discussed. How Web browsers and
+search engines work will be demonstrated. Social networks and other current Internet applications will
+be examined. In addition to lecture time, laboratory/ tutorial time may be scheduled as required.
+(Prerequisite: COMP-1047 or COMP-2067 or COMP-1400.) (May not be used to fulfill the major
+requirements of any major or joint major in Computer Science.) (3 lecture hours a week).
+
+COMP-2067. Programming for Beginners
+This course introduces fundamental computer programming principles and structured programming
+concepts, with an emphasis on good programming. Stages of the software development cycles are
+introduced: analysis, design, implementation, debugging and deployment. May not be used to fulfill the
+major requirements of any major or joint major in Computer Science, except fro the Bachelor of
+Information Technology (BIT program.) (3 lecture hours).
+
+COMP-2077. Problem Solving and Information on the Internet
+Students will be introduced to logic and critical appraisals including reasoning skills and critical thinking in
+the computer age. Problem solving and heuristics will be discussed including how to solve problems by
+coming up with the right strategies. Searching using Boolean logic to pinpoint useful and reliable
+information will be introduced. Methods for being self-critical and critical of web information in order to
+perform evaluations will be studied. (Prerequisites COMP-1047 and COMP-2057.) (This course may not
+be taken to fulfill the major requirements of any major or joint major in Computer Science.) (3 lecture
+hours a week).
+
+COMP-2087. Programming for Beginners II
+This course is the continuation of COMP-2067 that introduces students to more advanced algorithm
+design and programming using Python. The main objectives of the course are to develop the ability to
+identify, understand, and design solutions to a wide variety of problems. Topics covered include: lists,
+dictionaries and files, functions and modules, testing and exception handling and object oriented
+approach. (Prerequisite: COMP-2067) (May not be used to fulfill the major requirements of any major or
+joint major in Computer Science, except fro the Bachelor of Information Technology (BIT program.) (3
+lecture hours a week).
+
+COMP-2097. Social Media Marketing for End Users
+This course provides review, analysis and use of social media and mobile technologies. Topics to be
+covered include: a comprehensive review of available social media and mobile technology, use of social
+media and mobile technology for sharing of knowledge and for group interaction, security and privacy, 
+ethical principles in social media, methods for analyzing end-user requirements for a social media
+application, strategies for designing, implementing, and maintaining an ethically-sound social media
+campaign, and measurement and assessment of social media analytics using industry standard tools and
+techniques. (This course may not be taken to fulfill the major requirements of any major or joint major in
+Computer Science except for the Bachelor of Information Technology (BIT program.) (3 lecture hours).
+
+COMP-2120. Object-Oriented Programming Using Java
+Concepts of classes and objects, Java applications, frames, event handling, control structures, methods,
+arrays, string manipulations, object-based programming, object-oriented programming - inheritance,
+polymorphism, interface and abstract classes, anonymous classes, data structures in Java, exception
+handling, introduction to graphical user interface. (Prerequisite: COMP-1410 or COMP-2087.) (3 lecture
+hours and 1.5 laboratory hours a week)
+
+COMP-2140. Computer Languages, Grammars, and Translators
+Pragmatic and theoretical aspects of grammars, recognizers, and translators for computer languages will
+be discussed. The topics covered will include regular languages and context-free languages, including
+parsers and parser generators for such languages. Attribute grammars, syntax-directed translation,
+interpreters and compilers will also be discussed. (Prerequisite: COMP-1000 and COMP-2120.) (3 lecture
+hours and 1.5 laboratory hours a week)
+
+COMP-2310. Theoretical Foundations of Computer Science
+An introduction to Mathematical Logic, Set Theory, and Graph Theory. Topics include propositional logic,
+first order logic, proof techniques, mathematical induction, sets, operations on sets, relations, operations
+on relations, functions, countable and uncountable sets, graph-theoretic concepts, such as graph
+connectivity, graph isomorphism, trees, Euler graphs. (Restricted to students in Computer Science.)
+(Prerequisite: COMP-1000 and MATH-1020.) (3 lecture hours and 1.5 laboratory hours a week)
+
+COMP-2540. Data Structures and Algorithms
+An introduction to the programming and analysis of linear and non-linear internal (main store) data
+structures and associated algorithms. Topics include the formal notion of an algorithm, elementary time
+and space complexity; linear lists (such as stacks, queues, linked structures.); non-linear lists (trees,
+binary trees); recursion; sorting techniques (such as heap sort, quick sort, merge sort, shell sort.);
+searching techniques (such as binary search, binary search trees, red-black trees, hashing.); algorithm
+design paradigms (such as divide-and-conquer, dynamic programming, greedy algorithms); and
+applications. (Prerequisite: COMP-1000 and COMP-1410. Restricted to Computer Science students or
+permission of the School of Computer Science.) (3 lecture hours and 1.5 laboratory hours a week.)
+
+COMP-2547 Applied Algorithms and Data Structures
+This course provides an introduction to the programming and analysis of both linear and non-linear
+data structures and their associated algorithms. Topics include the formal notion of algorithms;
+basics of time and space complexity; linear data structures (such as stacks, queues, linked lists); nonlinear data structures (such as trees, binary trees); recursion; sorting techniques (such as heap sort,
+quick sort, merge sort); searching techniques (such as binary search, binary search trees, hashing);
+algorithm design paradigms (such as divide-and-conquer, greedy algorithms); and applications.
+(Prerequisite: COMP-1000 and 2087, Prerequisite or Co-requisite: COMP-2087. Antirequisite: COMP2540) (May not be used to fulfill the major requirements of any major or joint major in Computer
+Science, except for the Bachelor of Information Technology (BIT) program. This course can not be
+taken as a substitute for COMP-2540)(3 lecture hours a week).
+
+COMP-2560. Systems Programming
+This course introduces students to advanced software development techniques in system programming
+using the C language in the UNIX environment. Topics include introduction to modern operating systems,
+system calls, managing processes, the use of fork and exec, signals, file processing, filters, pipes, scripting
+languages, introduction to concurrency (e.g. synchronization), network programming (e.g. using sockets),
+client-server problems. (Prerequisite: COMP-1410 or COMP-2087)(3 lecture hours and 1.5 laboratory
+hours a week)
+
+COMP-2650. Computer Architecture I: Digital Design
+This course covers fundamental concepts of digital design and CPU architecture. Topics covered include
+number systems, switching algebra, logic gates, circuit minimization combinational circuit, read-only
+memory, random-access memory, programmable logic, synchronous and asynchronous sequential
+circuits, latches, flip-flops, registers, counters, register transfer language. and CPU architecture overview.
+(Prerequisite: COMP-1400 or COMP-2087) (3 lecture hours and 1.5 laboratory hours a week).
+
+COMP-2660. Computer Architecture II: Microprocessor Programming
+This course uses microprocessor programming to explore the structure of a CPU and related
+components. Topics include data representation, central processing unit, arithmetic logic unit, control
+unit, assembly language concepts, memory segmentation, programming a typical microprocessor (e.g.
+Intel processors), instruction set architecture-addressing modes and formats, register set, runtime stack,
+floating point processor. (Prerequisite: COMP-2650). (3 lecture hours and 1.5 laboratory hours a week)
+
+COMP-2707. Advanced Web Design, Construction, and Deployment
+This course is intended to teach the student about advanced website creation and to give an
+understanding of some of the technology behind websites, as well as an understanding of emerging webrelated technologies. Topics covered will include JavaScript, Style Sheets, Dynamic HTML, XML, XHTML,
+Web Browser compatibility issues, and how web servers work. (Prerequisite: COMP-2057.) (This course
+may not be taken to fulfill the major requirements of any major or joint major in Computer Science,
+except for the Bachelor of Information Technology (BIT) program.) (3 lecture hours a week).
+COMP-2750. Selected Topics
+Topics may differ from year to year. (Prerequisite: COMP-1000 or MATH-1720, and COMP-1410 (or
+COMP-2087)) (May be repeated for credit if content changes.) (3 lecture hours or equivalent.)
+
+COMP-2800. Software Development
+This is a software development course to advance students' programming skills and to introduce basic
+software engineering concepts and techniques through practice. Topics for advancing programming
+skills to be covered include event-driven programming and advanced GUI design, concurrent
+programming techniques, reflection and inter-process communication. Basic software engineering topics
+include requirements analysis and design, medium sized project management, and automated software
+engineering tool development. (Prerequisite: COMP-2120.) (3 lecture hours and 1.5 laboratory hours a
+week.)
+
+COMP-2980. Co-op Work Term I
+Supervised experience in an approved career-related setting with a focus on the application of theory
+and the development of transferable skills. The Co-op work experience is designed to provide students
+with an enriched learning opportunity to integrate academic theory and concepts in an applied setting.
+(Prerequisite: Student must be enrolled in a Co-operative education program. Offered on a Pass/nonPass basis. Supervised practicum requires the successful completion of a minimum of 420 hours.
+Students who do not pass the course cannot continue in the Co-op program.) (This is an experiential
+learning course.)
+
+COMP-3037 Information Security for IT
+The course focuses on practical topics in information security that are encountered on a regular basis in
+the information technology ecosystem. The course discusses practical security problems and guidelines
+to help the user of information technology to make sound security decisions. Topics covered in this
+course include security policies, access controls, e-mail security, database security, WWW security, social
+network security, computer virus, and wireless network security. (Prerequisite: COMP-2057 or COMP2067) (3 lecture hours). (This course may not be taken to fulfill the major requirements of any major or
+joint major in Computer Science, except for the Bachelor of Information Technology (BIT) program.) (3
+lecture hours).
+
+COMP-3057. Cyber-Ethics
+A number of key concerns about social welfare in our cyber age will be explored. Law, morality, public
+policy, and how these both influence and are influenced by the Internet will be examined. This course
+will critically appraise issues surrounding, but not limited to, free speech, property rights (especially
+intellectual property), privacy, security, and artificial intelligence. Issues raised by ethical theorists, policy
+makers, legal experts, and computer scientists will be analyzed in this course. (Prerequisites: COMP-2057
+or COMP 2540) (This course may not be taken to fulfill the major requirements of any major or joint
+major in Computer Science, except for the Bachelor of Information Technology (BIT) program.)(3 lecture
+hours a week)
+
+COMP-3067 Applied Databases
+This course will acquaint students with the basic concepts and application of relational database
+systems. The topic covered will include 3-level architecture, relational bases, Structured Query
+Language (SQL) and query formulation, and normalization concepts. Prerequisite: COMP-2547,
+Antirequisite: COMP-3150) (May not be used to fulfill the major requirements of any major or joint
+major in Computer Science, except for the Bachelor of Information Technology (BIT) program. This
+course can not be taken as a substitute for COMP-3150) (3 lecture hours a week).
+
+COMP-3077. Web-Based Data Management
+This course is intended to teach students how to design and build interactive data-driven Web sites, by
+extending their knowledge of relevant programming concepts and techniques introduced in COMP-2707,
+and introducing new tools and techniques. Students will learn advanced use of PHP and MySQL to build
+objects and “glue” them together using protocols such as JSON, code libraries such as AJAX and jQuery,
+and learn how to incorporate API’s from Web service providers such as Google Maps. (Prerequisite:
+COMP-2707). (This course may not be taken to fulfill the major requirements of any major or joint major
+in Computer Science, except for the Bachelor of Information Technology (BIT) program.) (3 lecture hours
+a week.)
+
+COMP-3110. Introduction to Software Engineering
+This course introduces the fundamental concepts, common principles, and general techniques of
+software engineering. It discusses the main issues involved in the development life-cycle of nontrivial
+software systems, including process models, feasibility studies, requirements elicitation and definition,
+rapid prototyping, design methodologies, verification and validation, and software evolution. Students
+taking this course are required to work on projects, which are designed to go through the major phases
+of large-scale software system development. (Prerequisite: COMP-2120 and one of COMP-2540 or
+COMP-2547)(3 lecture hours a week)
+
+COMP-3150. Database Management Systems
+This course will acquaint students with the Basic concepts of Database Systems. The topics covered will
+include 3-level architecture, introduction to file structures: B-trees, B+ Trees and Hashed files, relational
+model, relational algebra and calculus, SQL, and database design with Normalization Theory.
+(Prerequisite: COMP-2540 and COMP-2560 or COMP-2650.) (3 lecture hours a week)
+
+COMP-3220. Object-Oriented Software Analysis and Design
+This course builds on the knowledge of object-oriented programming, data structures, systems
+programming. Students are introduced to object-oriented software analysis and design concepts (such as
+cohesion and coupling), and design practices currently used in industry , (such as design patterns and
+refactoring). These concepts and practices will be discussed through case studies and programming
+exercises. (Prerequisite: COMP-2120 and COMP-2540)(3 lecture hours a week)
+
+COMP-3250 Data Analytics I
+This course covers techniques for quantitative and qualitative data analysis and visualization of big data.
+It focuses on statistics for model building and evaluation. Topics include experimental research,
+correlation analysis, regression, and group comparisons. Students will learn how to utilize real datasets
+with graphs and numerical measures and work with unstructured data like texts and images.
+(Prerequisite: COMP-2547 (or COMP-2540) and STAT-2910) (3 lecture hours)
+
+COMP-3300. Operating Systems Fundamentals
+Operating system services, introduction to primary components of multi-programming operating
+systems, CPU scheduling, concurrent processes, process synchronization and interprocess
+communication, deadlocks, memory management, file systems, virtual memory, disk scheduling.
+(Prerequisite: COMP-2120, COMP-2540, COMP-2560, and COMP-2650 or COMP-2660.)(3 lecture hours a
+week)
+
+COMP-3340. World Wide Web Information Systems Development
+This course is designed for people who want to make their data available to others over the Internet.
+Topics will include WWW authoring, WWW site planning, executable programs that create dynamic
+documents, the client-server model, multi-tier WWW software architecture, and security aspects.
+(Prerequisite: COMP-2120 and COMP-2540.) (3 lecture hours a week)
+
+COMP-3400. Advanced Object Oriented System Design Using C++
+The main objective of this course is to explore advanced topics of the object oriented paradigm through
+the use of the C++ programming language. Topics covered include: advanced object oriented design, the
+use of abstraction to manage complexity, objects and classes, inheritance and class hierarchies, multiple
+inheritance, operator and method overloading, namespaces and visibility, templates, dynamic binding
+and virtual functions, exception handling, multi-threading and C++ standard library. In addition, the
+course will include a practical project, solving a real-life problem, implemented in C++, involving the
+client/server methodology, and an interface to a database using a graphics toolkit. (Prerequisites: COMP2120, COMP-2560.) (3 lecture hours a week)
+
+COMP-3500. Introduction to Multimedia Systems
+This course provides the student with basic concepts and techniques used in multimedia systems. Topics
+include: components of multimedia systems (text, audio, and video), media formats and standards, data
+compression techniques, hypermedia techniques, and authoring tools. (Prerequisite: COMP-2540 and
+COMP-2650.) (3 lecture hours a week) 
+
+COMP-3520. Introduction to Computer Graphics
+An introduction to computer graphics hardware and software, interfaces, standards, programming
+libraries, fundamental algorithms, rendering techniques, and algorithms for 2D and 3D applications.
+Substantial programming work is vital to this course. (Prerequisite: COMP-2540 and MATH-1250.) (3
+lecture hours a week)
+
+COMP-3540. Theory of Computation
+Finite Automata, regular expressions and languages; properties of regular languages; context-free
+grammars and languages; pushdown automata; properties of context-free languages. Introduction to
+Turing machines; recursive functions; undecidability. (Prerequisites: COMP-2140, COMP-2310 and
+COMP-2540.) (3 lecture hours a week)
+
+COMP-3670. Computer Networks
+This course is an introduction to computer networks and their protocols. Topics include: network
+architectures, transport, routing, and data link protocols, addressing, local area networks, flow and
+congestion control, and network security. Examples will be drawn primarily from the Internet (e.g. TCP,
+UDP, IP) protocol suite. (Prerequisite: COMP-2120, COMP-2540 or COMP-2547, COMP-2560 and COMP2650. Recommended corequisite: COMP-3300.)
+
+COMP-3680. Network Practicum
+This course will acquaint the students with practical details of network software and hardware. Topics
+will include design, setup, configuration and implementation of various network functions. (Prerequisite:
+COMP-3300 and COMP-3670.) (3 lecture hours and 1.5 lab hours a week.)
+
+COMP-3710. Artificial Intelligence Concepts
+This course covers fundamental concepts in Artificial Intelligence. Topics include informed and
+uninformed search, problem solving using propositional and first-order logics, knowledge representation
+and reasoning, plausible and uncertain reasoning, machine learning, ethical implications. An overview of
+some applied Artificial Intelligence such as natural language processing, planning and agent systems will
+be included. (Prerequisites:COMP-2540 and (STAT-2910 or STAT-2920) (3 lecture hours a week)
+
+COMP-3750. Selected Topics
+Topics may differ from year to year. (Prerequisite: COMP-2120, COMP-2540, and COMP-2560. Additional
+courses may be required depending upon the subject.) (May be repeated for credit if content changes.)(3
+lecture hours or equivalent a week)
+
+COMP-3760. Selected Topics
+Topics may differ from year to year. (Prerequisite: COMP-2120, COMP-2540, and COMP-2560. Additional
+courses may be required depending upon the subject.) (May be repeated for credit if content changes.)(3
+lecture hours or equivalent a week)
+
+COMP-3770. Game Design, Development and Tools
+This course introduces professional game design and development tools. Students will become proficient
+in the use of a commercial grade game engine (e.g., Unity3D) and associated scripting/programming
+languages (e.g., C#) through programming intensive hands-on assignments. Topics may include game
+design and development concepts such as game objects and game components, game physics and
+collision handling, basic artificial intelligence, 2D and 3D graphics, textures and shaders, sprite animation,
+3D animation, and audio. (Prerequisites: COMP-2120 and COMP-2540.) (3 lecture hours a week)
+
+COMP-3980. Co-op Work Term II
+Supervised experience in an approved career-related setting with a focus on the application of theory
+and the development of transferable skills. The Co-op work experience is designed to provide students
+with an enriched learning opportunity to integrate academic theory and concepts in an applied setting.
+(Prerequisite: Student must be enrolled in a Co-operative education program. Offered on a Pass/nonPass basis. Supervised practicum requires the successful completion of a minimum of 420 hours.
+Students who do not pass the course cannot continue in the Co-op program.) (This is an experiential
+learning course.)
+
+COMP-4110. Software Verification and Testing
+This course covers fundamental concepts and techniques for software verification and testing. The
+students will learn through practice the testing process, automated software testing tools, and various
+test models together with the related test coverage criteria. (Prerequisites: COMP-3110 and COMP3300.) (3 lecture hours a week)
+
+COMP-4150. Advanced and Practical Database Systems
+This course covers both advanced theoretical database materials as well as specific database application
+development tools needed in the industry. The course completes database design and theory initiated in
+COMP-3150 and then adds database application development languages. Students will be exposed to
+the running environments (e.g., their compilers) and applying these on the database theory and design of
+the first part to develop full application. (Prerequisites: COMP-3150 and COMP-3300.) (3 lecture hours a
+week)
+
+COMP-4200. Mobile Application Development
+Students taking this course will learn how to create a mobile application for the Android platform. The
+topics covered will include: use of the mobile application development environment, specification of the
+requirements for a mobile application, design and implementation of the end-user interface, managing
+data in a mobile application environment, interfacing with data and programs residing on remote
+servers, creation of object-oriented programs to implement the mobile application, use of libraries and
+third-party software resources, deployment of a mobile application so that it is available to the public,
+and documentation, including creation of end-user instructions, and design/program documentation.
+Students will work individually, and will develop a mobile application that has been approved by the
+instructor of the course. (Prerequisites: COMP-3150, COMP-3220.) (3 lecture hours a week.)
+
+COMP-4220. Agile Software Development
+This project-oriented course is designed to give students experience in developing projects using Agile
+software development process. The course will discuss principles of Agile methods for software
+development, with a concentration on the eXtreme Programming methodology, and will teach concepts
+related to its practices. Topics will include software and user interface design, build and development
+tools, data persistence, and proper software testing. Projects will involve the creation of industryoriented software (e.g. in Java), and will expose participants to tools commonly used in industry.
+(Prerequisite: COMP-3220.)(3 lecture hours a week.)
+
+COMP-4250. Big Data Analytics and Database Design
+This course introduces topics in data mining and data analytics with emphasis on Big Data. Students will
+gain knowledge on the practical design principles as well as theoretical foundations of Big Data
+processing systems. Topics covered will include: data storage design and processing of big data systems
+such as NOSQL databases, MapReduce and Hadoop; introduction to data mining concepts such as
+frequent itemset and association rule mining, finding similar items, clustering, classification, link analysis,
+and mining data streams. (Prerequisite: COMP-3150 or COMP-3250.) (3 lecture hours a week.)
+
+COMP-4400. Principles of Programming Languages
+Basic concepts of programming languages. Comparative study of the major programming paradigms,
+including imperative, object-oriented, functional, logic, and concurrent programming. Principles of
+programming language design and evaluation. Syntax, semantics and implementation techniques of
+programming languages. (Prerequisite: COMP-2140, COMP-2310 and COMP-2540.) (Restricted to
+Computer Science students.) (3 lecture hours a week.)
+
+COMP-4500. 3D Multimedia System Development
+The aim of this course is to discuss and learn technologies for the development of multimedia
+application, modeling and development of standalone and/or, networked multimedia systems, and
+computer generated 3D animation. (Prerequisite: Year 3/4 standing in Computer Science or
+Communication, Media, and Film or Visual Art and consent of instructor.) (3 lecture hours a week.)
+
+COMP-4540. Design and Analysis of Computer Algorithms
+The intent of this course is to introduce the fundamental techniques in the design and analysis of
+computer algorithms. Topics include: asymptotic bounds, advanced data structures, searching, sorting,
+order statistics, oracle arguments, divide-and-conquer, greedy algorithms, dynamic programming, graph
+algorithms, NP completeness, and approximation algorithms. (Prerequisite: COMP-2310 and COMP2540) (Restricted to students in any Honours Computer Science program or consent of instructor.) (3
+lecture hours a week.)
+
+COMP-4670. Network Security
+This course will introduce students to advanced topics in network security. Topics will include encryption
+and authentication techniques, detection and analysis of intrusions, and the security of electronic mail
+and web access. (Restricted to Computer Science students) (Prerequisites: COMP-3670.) (3 lecture hours
+a week.)
+
+COMP-4680. Advanced Networking
+The course will introduce students to advanced topics in networking. (Restricted to Computer Science
+Students) (Prerequisites: COMP-3670 and COMP-3680.)
+
+COMP-4700. Project Using Selected Tools
+Students will complete a project using an advanced computing tool, such as a database package,
+simulation software, speech-recognition hardware module, etc. Students are required to submit a report
+describing the project and demonstrating mastery of the tool. Tools and the project are chosen by the
+student with the approval of the instructor. (Restricted to Computer Science Students ) (Prerequisite:
+COMP-3150, COMP-3220, and COMP-3300.) (3 lecture hours or equivalent a week)
+
+COMP-4730. Advanced Topics in Artificial Intelligence I
+The course will introduce students to advanced topics in Artificial Intelligence. (Restricted to Honours
+Computer Science students) (Prerequisite: COMP-3710.) (3 lecture hours a week)
+
+COMP-4740. Advanced Topics in Artificial Intelligence II
+The course will introduce students to advanced topics in Artificial Intelligence. (Restricted to Honours
+Computer Science students.) (Prerequisite: COMP-3710.) (3 lecture hours a week)
+
+COMP-4750. Selected Topics 
+In many cases the topics will coincide with a graduate course offering in a given year, and students will
+be required to complete the lecture component of that graduate course. Topics may include: advanced
+database management, graphics, artificial intelligence, information retrieval, theory of computation,
+functional programming, knowledge base systems, and foundations of programming languages.
+(Restricted to Semester 7 and Semester 8 students in Computer Science with permission of the
+instructor.) (May be repeated for credit if content changes.) (3 lecture hours or equivalent a week)
+
+COMP-4760. Selected Topics
+In many cases the topics will coincide with a graduate course offering in a given year, and students will
+be required to complete the lecture component of that graduate course. Topics may include: advanced
+database management, graphics, artificial intelligence, information retrieval, theory of computation,
+functional programming, knowledge base systems, and foundations of programming languages.
+(Restricted to Semester 7 and Semester 8 students in Computer Science with permission of the
+instructor.) (May be repeated for credit if content changes.) (3 lecture hours or equivalent a week)
+
+COMP-4770. Artificial Intelligence for Games
+This course provides students with an opportunity to explore theoretical and practical aspects of Artificial
+Intelligence for computer games. Topics may include agents, sensory systems, steering behaviours,
+pathfinding, decision making, planning, goal-oriented behaviour, multi-agents (groups, crowds) and
+learning. (Prerequisite: COMP-3770.)(Restricted to students in any Honours Computer Science program.)
+(3 lecture hours a week.)
+
+COMP-4800. Selected Topics in Software Engineering
+This course intends to connect emerging technologies with the student's theoretical background in
+Computer Science related to Software Engineering concepts and techniques. Selected application
+domains include protocol security, web systems and distributed object systems and the theories involved
+include graph theory, set theory, automata and compiler theory. (Prerequisite: COMP-3110, COMP-3220
+and COMP-3300.) (Restricted to Computer Science Students). (3 lecture hours a week)
+
+COMP-4960. Research Project
+This course consists of two components: a) development of research skills, and b) development of
+technical writing and project presentation skills. This course requires students to complete a research
+project in some area of Computer Science under the supervision of a faculty member. The course will
+typically involve the development of some software or the design and/or implementation of some
+algorithm. Each student will be required to submit a project report and give one or more seminars on
+the research project. (a 6 credit course restricted to Semester 7 or Semester 8 students in BCS (Honours)
+or B.Sc. (Honours Computer Science with Software Engineering Specialization) with a major average of
+72% or better.) (Anti-requisite COMP-4990.) (3 lecture hours or equivalent a week, for two terms.)
+
+COMP-4970. Co-op Work Term III
+Supervised experience in an approved career-related setting with a focus on the application of theory
+and the development of transferable skills. The Co-op work experience is designed to provide students
+with an enriched learning opportunity to integrate academic theory and concepts in an applied setting.
+(Prerequisite: Student must be enrolled in a Co-operative education program. Offered on a Pass/nonPass basis. Supervised practicum requires the successful completion of a minimum of 420 hours.
+Students who do not pass the course cannot continue in the Co-op program.) (This is an experiential
+learning course.)
+
+COMP-4980. Co-op Work Term IV
+Supervised experience in an approved career-related setting with a focus on the application of theory
+and the development of transferable skills. The Co-op work experience is designed to provide students
+with an enriched learning opportunity to integrate academic theory and concepts in an applied setting.
+(Prerequisite: Student must be enrolled in a Co-operative education program. Offered on a Pass/nonPass basis. Supervised practicum requires the successful completion of a minimum of 420 hours.
+Students who do not pass the course cannot continue in the Co-op program.) (This is an experiential
+learning course.)
+
+COMP-4990. Project Management: Techniques and Tools
+This course requires students to complete an application development project in some area of Computer
+Science under the supervision of a faculty member. The course will typically involve the development of
+some software or the design and/or implementation of some algorithm. Students will be required to
+submit project reports and give presentations on the technical components of the project. (a 6 credit
+course restricted to Semester 7 or Semester 8 students in Computer Science.) (Antirequisite: COMP4960.) (3 lecture hours or equivalent a week, for two terms.)
